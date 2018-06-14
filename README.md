@@ -42,7 +42,7 @@ Example output:
 5. Writes the resulting data to both JSON and CSV.
 6. DO NOT use the 'pandas' library when answering this question.
 
-**Answer**: IS in answer2.py
+**Answer**: Is in answer2.py
 
 
 
